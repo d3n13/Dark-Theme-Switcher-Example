@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Theme Settings Example</string>
+    <string name="night_mode">Night Mode</string>
+</resources>

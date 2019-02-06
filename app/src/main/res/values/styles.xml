@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. (The Light One) -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="bg">@color/colorBGLight</item>
+        <item name="textColor">@color/textColorLight</item>
+    </style>
+
+    <!-- Dark theme -->
+    <style name="DarkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/DarkThemeColorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorBGDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="bg">@color/colorBGDark</item>
+        <item name="textColor">@color/textColorDark</item>
+    </style>
+</resources>
